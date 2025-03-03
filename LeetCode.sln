@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZigZag-Conversion", "ZigZag-Conversion\ZigZag-Conversion.csproj", "{824D2489-42F0-4D4B-A46A-3EE60C175C00}"
 EndProject
@@ -10,6 +10,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String To Integer", "String To Integer\String To Integer.csproj", "{39090841-8ED4-4E9C-9632-3EF5E288EF86}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regular Expression Matching", "Regular Expression Matching\Regular Expression Matching.csproj", "{FFD33ED6-A864-43E3-8F50-B031560537B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richest Customer Wealth", "Richest Customer Wealth\Richest Customer Wealth.csproj", "{DC4BBDFB-C155-4D25-BA8F-EF6612BF8A2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{0A93DCAA-1473-4D1E-8754-E07D44727C77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Middle of Linked List", "Middle of Linked List\Middle of Linked List.csproj", "{4444137F-E803-40C4-A83D-5597D10A77ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ransom Note", "Ransom Note\Ransom Note.csproj", "{431DC0F1-E2C7-4465-82E4-91C93C24EF4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +41,22 @@ Global
 		{FFD33ED6-A864-43E3-8F50-B031560537B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFD33ED6-A864-43E3-8F50-B031560537B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFD33ED6-A864-43E3-8F50-B031560537B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC4BBDFB-C155-4D25-BA8F-EF6612BF8A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4BBDFB-C155-4D25-BA8F-EF6612BF8A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4BBDFB-C155-4D25-BA8F-EF6612BF8A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4BBDFB-C155-4D25-BA8F-EF6612BF8A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A93DCAA-1473-4D1E-8754-E07D44727C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A93DCAA-1473-4D1E-8754-E07D44727C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A93DCAA-1473-4D1E-8754-E07D44727C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A93DCAA-1473-4D1E-8754-E07D44727C77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4444137F-E803-40C4-A83D-5597D10A77ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4444137F-E803-40C4-A83D-5597D10A77ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4444137F-E803-40C4-A83D-5597D10A77ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4444137F-E803-40C4-A83D-5597D10A77ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{431DC0F1-E2C7-4465-82E4-91C93C24EF4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431DC0F1-E2C7-4465-82E4-91C93C24EF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431DC0F1-E2C7-4465-82E4-91C93C24EF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431DC0F1-E2C7-4465-82E4-91C93C24EF4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
