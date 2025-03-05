@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Middle of Linked List", "Mi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ransom Note", "Ransom Note\Ransom Note.csproj", "{431DC0F1-E2C7-4465-82E4-91C93C24EF4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Has Same Digits", "Has Same Digits\Has Same Digits.csproj", "{A4B019CF-95BB-4496-AB5B-3BBE55D7D22B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{431DC0F1-E2C7-4465-82E4-91C93C24EF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{431DC0F1-E2C7-4465-82E4-91C93C24EF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{431DC0F1-E2C7-4465-82E4-91C93C24EF4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B019CF-95BB-4496-AB5B-3BBE55D7D22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B019CF-95BB-4496-AB5B-3BBE55D7D22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B019CF-95BB-4496-AB5B-3BBE55D7D22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B019CF-95BB-4496-AB5B-3BBE55D7D22B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
